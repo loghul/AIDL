@@ -1,5 +1,6 @@
-# Ex.No:2 Create a simple application client and server service using AIDL interface in android studio.
-
+### EX NO : 02
+### DATE  : 20/09/22
+# <p align="center">Create a simple application client and server service using AIDL interface in android studio.
 
 ## AIM:
 
